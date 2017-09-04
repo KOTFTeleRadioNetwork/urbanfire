@@ -20,6 +20,6 @@
         <forum></forum>
         <website>www.theurbanfiregroup.com</website>
         <email></email>
-        <source>ftp://theurbanfiregroupcom@ftp.theurbanfiregroup.com/KOTFTVRadio/kodi</source>
+        <source>https://github.com/KOTFTeleRadioNetwork/urbanfire</source>
     </extension>
 </addon>
