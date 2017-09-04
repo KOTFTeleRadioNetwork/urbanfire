@@ -19,7 +19,7 @@ import xbmc
 import xbmcgui
 
 # Stream URL here
-url = urllib2.urlopen("https://github.com/KOTFTeleRadioNetwork/urbanfire/stream_url.txt").readline().strip()
+url = urllib2.urlopen("urbanfire/stream_url.txt").readline().strip()
 # Fake List Item for Stream Name
 listitem = xbmcgui.ListItem("KOTF UrbanFire")
 listitem.setInfo('video', {'Title': 'KOTF UrbanFire', 'Genre': 'Urban Programming'})
