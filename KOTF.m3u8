@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1000000
-http://live-h1.frontlayer.net/fl816024/live/chunks.m3u8
